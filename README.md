@@ -6,3 +6,4 @@ Open the terminal and run:
 
 ```bash
 bash setup_lab.sh
+```
